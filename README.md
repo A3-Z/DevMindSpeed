@@ -84,11 +84,11 @@ DevMindSpeed/
 
 ## Task Requirements Checklist
 
- **Start Game API**
- **Submit Answer API**
- **End Game API**
- **MySQL integration**
- **Tracks best score**
- **Provides full history**
- **Sample Postman usage**
- **README with setup instructions**
+ 1.**Start Game API**
+ 2.**Submit Answer API**
+ 3.**End Game API**
+ 4.**MySQL integration**
+ 5.**Tracks best score**
+ 6.**Provides full history**
+ 7.**Sample Postman usage**
+ 8.**README with setup instructions**
