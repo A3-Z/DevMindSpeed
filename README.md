@@ -74,21 +74,21 @@ A backend-only game that tests a player's ability to solve math problems quickly
 ```
 
 ## Project Structure
-DevMindSpeed/
-│
-├── DevMindSpeed.API/              # Main API entry point
-├── DevMindSpeed.BusinessLayer/   # Core game logic and services
-├── DevMindSpeed.DataAccessLayer/ # EF Core repositories and DBContext
-├── DevMindSpeed.Entity/          # Entity definitions (Game, Question)
-└── DevMindSpeed.Common/          # Shared models, helpers
+- DevMindSpeed/
+- │
+- ├── DevMindSpeed.API/              # Main API entry point
+- ├── DevMindSpeed.BusinessLayer/   # Core game logic and services
+- ├── DevMindSpeed.DataAccessLayer/ # EF Core repositories and DBContext
+- ├── DevMindSpeed.Entity/          # Entity definitions (Game, Question)
+- └── DevMindSpeed.Common/          # Shared models, helpers
 
 ## Task Requirements Checklist
 
- 1.**Start Game API**
- 2.**Submit Answer API**
- 3.**End Game API**
- 4.**MySQL integration**
- 5.**Tracks best score**
- 6.**Provides full history**
- 7.**Sample Postman usage**
- 8.**README with setup instructions**
+- Start Game API
+- Submit Answer API
+- End Game API
+- MySQL integration
+- Tracks best score
+- Provides full history
+- Sample Postman usage
+- README with setup instructions
