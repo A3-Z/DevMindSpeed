@@ -1,0 +1,85 @@
+[
+  {
+    "ContainingType": "DevMindSpeed.API.Controllers.GameController",
+    "Method": "EndGame",
+    "RelativePath": "Game/{gameId}/end",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DevMindSpeed.Common.Api.Models.Response.ApiResponse\u00601[[DevMindSpeed.BusinessLayer.Dtos.EndGameResponseDto, DevMindSpeed.BusinessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DevMindSpeed.API.Controllers.GameController",
+    "Method": "SubmitAnswer",
+    "RelativePath": "Game/{gameId}/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "DevMindSpeed.Common.Api.Models.Request.ApiRequest\u00601[[DevMindSpeed.Entity.Api.Question.SubmitAnswerRequest, DevMindSpeed.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DevMindSpeed.Common.Api.Models.Response.ApiResponse\u00601[[DevMindSpeed.BusinessLayer.Dtos.SubmitAnswerResponseDto, DevMindSpeed.BusinessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DevMindSpeed.API.Controllers.GameController",
+    "Method": "Start",
+    "RelativePath": "Game/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DevMindSpeed.Common.Api.Models.Request.ApiRequest\u00601[[DevMindSpeed.Entity.Api.Game.StartGameRequest, DevMindSpeed.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DevMindSpeed.Common.Api.Models.Response.ApiResponse\u00601[[DevMindSpeed.BusinessLayer.Dtos.StartGameResponseDto, DevMindSpeed.BusinessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\bin\Debug\net8.0\DevMindSpeed.DataAccessLeayer.deps.json
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\bin\Debug\net8.0\DevMindSpeed.DataAccessLeayer.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\bin\Debug\net8.0\DevMindSpeed.DataAccessLeayer.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\bin\Debug\net8.0\DevMindSpeed.Common.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\bin\Debug\net8.0\DevMindSpeed.Entity.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\bin\Debug\net8.0\DevMindSpeed.Entity.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\bin\Debug\net8.0\DevMindSpeed.Common.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\DevMindSpeed.DataAccessLeayer.csproj.AssemblyReference.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\DevMindSpeed.DataAccessLeayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\DevMindSpeed.DataAccessLeayer.AssemblyInfoInputs.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\DevMindSpeed.DataAccessLeayer.AssemblyInfo.cs
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\DevMindSpeed.DataAccessLeayer.csproj.CoreCompileInputs.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\DevMindS.E18EA8F9.Up2Date
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\DevMindSpeed.DataAccessLeayer.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\refint\DevMindSpeed.DataAccessLeayer.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\DevMindSpeed.DataAccessLeayer.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Repository\obj\Debug\net8.0\ref\DevMindSpeed.DataAccessLeayer.dll

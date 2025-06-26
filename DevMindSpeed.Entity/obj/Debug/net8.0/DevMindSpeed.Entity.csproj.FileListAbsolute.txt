@@ -1,0 +1,15 @@
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\bin\Debug\net8.0\DevMindSpeed.Entity.deps.json
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\bin\Debug\net8.0\DevMindSpeed.Entity.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\bin\Debug\net8.0\DevMindSpeed.Entity.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\bin\Debug\net8.0\DevMindSpeed.Common.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\bin\Debug\net8.0\DevMindSpeed.Common.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\DevMindSpeed.Entity.csproj.AssemblyReference.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\DevMindSpeed.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\DevMindSpeed.Entity.AssemblyInfoInputs.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\DevMindSpeed.Entity.AssemblyInfo.cs
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\DevMindSpeed.Entity.csproj.CoreCompileInputs.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\DevMindS.234AE8AC.Up2Date
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\DevMindSpeed.Entity.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\refint\DevMindSpeed.Entity.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\DevMindSpeed.Entity.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Entity\obj\Debug\net8.0\ref\DevMindSpeed.Entity.dll

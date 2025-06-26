@@ -1,0 +1,14 @@
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\bin\Debug\net8.0\DevMindSpeed.Common.deps.json
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\bin\Debug\net8.0\DevMindSpeed.Common.runtimeconfig.json
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\bin\Debug\net8.0\DevMindSpeed.Common.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\bin\Debug\net8.0\DevMindSpeed.Common.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\DevMindSpeed.Common.csproj.AssemblyReference.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\DevMindSpeed.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\DevMindSpeed.Common.AssemblyInfoInputs.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\DevMindSpeed.Common.AssemblyInfo.cs
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\DevMindSpeed.Common.csproj.CoreCompileInputs.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\DevMindSpeed.Common.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\refint\DevMindSpeed.Common.dll
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\DevMindSpeed.Common.pdb
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\DevMindSpeed.Common.genruntimeconfig.cache
+C:\Users\abdal\Desktop\DevMindSpeed\DevMindSpeed.Common\obj\Debug\net8.0\ref\DevMindSpeed.Common.dll
